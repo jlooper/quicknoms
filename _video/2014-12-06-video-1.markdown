@@ -1,0 +1,11 @@
+---
+layout: default
+title: Video sample 1
+modal-id: 1
+date: 2014-12-05
+img: video1.png
+alt: image-alt
+project-date: December 2014
+category: Video
+description: Video
+---

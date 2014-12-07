@@ -1,0 +1,41 @@
+# Site settings
+title: QuickNoms
+email: jen.looper@gmail.com
+description: "5 ingredients. 15 minutes. Minimal setup. Recipes for all!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: F3431F #80B3FF
+  secondary: 8AC215 #FD6E8A
+  secondary-dark: 650100 #A2122F
+  
+# Footer settings
+footer:
+  copyright: Ladeez First Media
+  location: We're local!
+  social: Around the Web
+  credits: Built with Love
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jenlooper
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jenlooper
+  - title: github
+    url: http://github.com/jlooper
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Built in Boston
+  
+# Credits content
+credits: 'A project by Ladeez First Media, &copy; Jen Looper.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
