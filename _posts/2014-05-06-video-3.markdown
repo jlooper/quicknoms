@@ -1,13 +1,8 @@
 ---
 layout: default
 title: Playful kittenz!
-modal-id: 1
 date: 2014-12-05
-img: meat.png
-alt: image-alt
-project-date: December 2014
 category: Video
 embed_code: <iframe width="300" height="200" src="//www.youtube.com/embed/zDUY0ESs8zU?list=PLrEnWoR732-DN561GnxXKMlocLMc4v4jL" frameborder="0" allowfullscreen></iframe>
-description: Video
 
 ---

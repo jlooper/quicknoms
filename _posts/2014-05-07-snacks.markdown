@@ -1,0 +1,9 @@
+---
+layout: default
+title: snackage
+date: 2014-12-07
+category: Snacks
+copy: let's learn about snackage
+thumbnail: thumb1.png
+link: link1.html
+---

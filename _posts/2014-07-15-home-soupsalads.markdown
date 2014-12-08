@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Soups and Salads
-modal-id: 4
-date: 2014-12-05
+link: soupsalad
+date: 2014-12-01
 img: soupssalads.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: Soups, Salads, lunch munches
-
 ---

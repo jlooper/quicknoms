@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Extras
-modal-id: 5
+link: everythingelse
 date: 2014-12-05
 img: extras.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: Everything else
-
 ---

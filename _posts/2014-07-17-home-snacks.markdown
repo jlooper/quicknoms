@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Snack Recipes
-modal-id: 2
+link: snacks
 date: 2014-12-05
 img: snacks.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: Snackage
 ---

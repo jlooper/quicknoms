@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Dessert Recipes
-modal-id: 6
+link: desserts
 date: 2014-12-05
 img: desserts.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: Here's the deal about desserts.
 ---

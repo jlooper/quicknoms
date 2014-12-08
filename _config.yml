@@ -22,10 +22,6 @@ social:
     url: http://twitter.com/jenlooper
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jenlooper
   - title: github
     url: http://github.com/jlooper
 

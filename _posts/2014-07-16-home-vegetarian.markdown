@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Vegetarian Recipes
-modal-id: 3
+link: vegetarian
 date: 2014-12-05
 img: vegetarian.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: All veg, all the time
-
 ---

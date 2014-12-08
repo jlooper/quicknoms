@@ -8,8 +8,12 @@ body {
     overflow-x: hidden;
 }
 
-p {
+p,.copy {
     font-size: 20px;
+}
+
+.copy{
+    color: #{{ site.color.secondary-dark }};
 }
 
 p.small {
@@ -34,6 +38,10 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+h3.title{
+    color: #{{ site.color.secondary-dark }};
 }
 
 hr.star-light,
@@ -67,11 +75,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 

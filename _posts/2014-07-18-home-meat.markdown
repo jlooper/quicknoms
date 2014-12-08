@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Meat Recipes
-modal-id: 1
+link: meat
 date: 2014-12-05
 img: meat.png
 alt: image-alt
-project-date: December 2014
 category: Recipes
-description: Let's talk meat
-
 ---
