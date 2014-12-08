@@ -19,19 +19,19 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="/#portfolio">Recipes</a>
+                        <a href="{{ site.baseurl }}#portfolio">Recipes</a>
                     </li>
                     <li>
-                        <a href="/video">Video</a>
+                        <a href="{{ site.baseurl }}video">Video</a>
                     </li>
                     <li>
-                        <a href="/survivalkit">Survival Kit</a>
+                        <a href="{{ site.baseurl }}survivalkit">Survival Kit</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="/#about">About</a>
+                        <a href="{{ site.baseurl }}#about">About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="/#contact">Submit A Recipe</a>
+                        <a href="{{ site.baseurl }}#contact">Submit A Recipe</a>
                     </li>
                 </ul>
             </div>
@@ -39,11 +39,3 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
-
-    
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
-
