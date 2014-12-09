@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: video
 title: Playful kittenz!
 date: 2014-12-05
 category: Video

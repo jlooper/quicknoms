@@ -1,0 +1,35 @@
+---
+layout: post
+title: Pizza Bagels
+date: 2014-12-09
+category: Snacks
+caption: A student standby
+archive: recipes
+url: pizzabagels
+---
+Pizza bagels are easy and filling. Make some now, freeze some for later in a zip-lock bag.
+
+#####You need:
+
+* Toaster oven
+* Knife
+
+#####Ingredients:
+
+* Plain bagels
+* Red sauce (pizza sauce or other marinara-type sauce as you prefer)
+* Shredded mozarella cheese
+* Pepperoni (pre-cut is easiest to deal with)
+* Optional extras, like some mushrooms or green pepper strips
+
+#####Procedure:
+
+1. Cut the bagels in half and lay side by side
+
+2. Spread the red sauce onto the bagel halves, not using too much
+
+3. Sprinkle with shredded cheese
+
+4. Cover with pepperoni and other optional toppings
+
+5. Toast in toaster oven for 5 minutes or until cheese bubbles.
