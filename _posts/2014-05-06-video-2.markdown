@@ -1,8 +1,0 @@
----
-layout: video
-title: Playful kittenz!
-date: 2014-12-05
-category: Video
-embed_code: <iframe width="300" height="200" src="//www.youtube.com/embed/zDUY0ESs8zU?list=PLrEnWoR732-DN561GnxXKMlocLMc4v4jL" frameborder="0" allowfullscreen></iframe>
-
----
