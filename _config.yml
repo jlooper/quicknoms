@@ -29,7 +29,7 @@ address:
   - line: Built in Boston
   
 # Credits content
-credits: 'A project by Ladeez First Media, &copy; Jen Looper.'
+credits: 'A project by <a href="http://www.ladeezfirstmedia.com">Ladeez First Media</a>, &copy; Jen Looper.'
 
 # Build settings
 markdown: kramdown

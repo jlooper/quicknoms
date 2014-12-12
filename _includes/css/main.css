@@ -15,6 +15,9 @@ p,.copy {
 .copy{
     color: #{{ site.color.secondary-dark }};
 }
+img.centered {
+    margin: 0 auto;
+}
 
 p.small {
     font-size: 16px;
