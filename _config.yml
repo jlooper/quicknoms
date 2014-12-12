@@ -2,7 +2,6 @@
 title: QuickNoms
 email: jen.looper@gmail.com
 description: "5 ingredients. 15 minutes. Minimal setup. Recipes for all!"
-baseurl: /quicknoms
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: F3431F #80B3FF
