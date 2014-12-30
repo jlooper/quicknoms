@@ -43,6 +43,3 @@ Church window cookies are a rolled cookie that is cut into rounds. The marshmall
 8. Repeat with the rest of the marshmallow mixture and coconut to create a new cookie log.
 
 9. Chill for about an hour, slice and serve! They won't last long.
-
-
-
