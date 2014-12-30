@@ -9,6 +9,8 @@ url: church-window-cookies
 ---
 Church window cookies are a rolled cookie that is cut into rounds. The marshmallows are colored and look a bit like church window panes. You can use either crushed nilla wafers, graham crackers, or coconut flakes for the outer coating, they all taste great.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
+
 #####You need:
 
 * Knife
@@ -44,5 +46,5 @@ Church window cookies are a rolled cookie that is cut into rounds. The marshmall
 
 9. Chill for about an hour, slice and serve! They won't last long.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
+
 
