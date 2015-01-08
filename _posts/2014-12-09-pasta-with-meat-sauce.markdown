@@ -9,6 +9,8 @@ url: pastameat
 ---
 Simple and easy and just right for a night of study
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/_MIdbZml6r4?list=UUpLxEusuFWB8cZXyiXs4qew" frameborder="0" allowfullscreen></iframe>
+
 #####You need:
 
 * Pasta pot or medium-sized stock pot with lid
