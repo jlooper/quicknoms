@@ -13,7 +13,6 @@ This recipe is inspired by Mark Bittman and is quick, easy, and fresh.
 #####You need:
 
 * Skillet
-* Dry pan
 * Knife
 * Cutting board
 
