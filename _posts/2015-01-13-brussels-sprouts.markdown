@@ -12,7 +12,7 @@ I love roasted Brussels, but the fresh ones can be expensive, and they tend to d
 #####You need:
 
 * Mixing bowl
-* Foil-lined bakish sheet
+* Foil-lined baking sheet
 
 #####Ingredients:
 
