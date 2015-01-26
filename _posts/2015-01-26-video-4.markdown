@@ -1,6 +1,6 @@
 ---
 layout: video
-title: Kale Salad
+title: Kale Salad How-to Video
 date: 2015-01-26
 category: Video
 embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/1eqjq_eoeQM" frameborder="0" allowfullscreen></iframe>
