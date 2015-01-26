@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kale Salad
-date: 2015-01-26
+date: 2015-01-25
 category: Vegetarian Dishes
 caption: Kale Salad
 archive: recipes
