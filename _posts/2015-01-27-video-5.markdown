@@ -3,5 +3,5 @@ layout: video
 title: Maple Syrup Snow Candy
 date: 2015-01-27
 category: Video
-embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/5e5MUxhmBWk" frameborder="0" allowfullscreen></iframe></iframe>
+embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/5e5MUxhmBWk" frameborder="0" allowfullscreen></iframe>
 ---
