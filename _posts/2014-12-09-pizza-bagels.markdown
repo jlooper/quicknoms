@@ -7,6 +7,8 @@ caption: A student standby
 archive: recipes
 url: pizzabagels
 ---
+<iframe width="560" height="315" src="//www.youtube.com/embed/i9QToeYHTmQ" frameborder="0" allowfullscreen></iframe>
+
 Pizza bagels are easy and filling. Make some now, freeze some for later in a zip-lock bag.
 
 #####You need:

@@ -7,7 +7,9 @@ caption: A traditional snow candy recipe
 archive: recipes
 url: maple-syrup-snow-candy
 ---
-If it's snowing outside, here's a fun, traditional indoor cooking recipe for the whole family
+<iframe width="560" height="315" src="//www.youtube.com/embed/5e5MUxhmBWk" frameborder="0" allowfullscreen></iframe>
+
+If it's snowing outside, here's a fun, easy, traditional indoor cooking recipe for the whole family
 
 #####You need:
 
