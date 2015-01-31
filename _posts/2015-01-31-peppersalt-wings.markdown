@@ -7,7 +7,7 @@ caption: A delicious and simple wings recipe
 archive: recipes
 url: pepper-salt-wings
 ---
-<img src="/img/wings.jpg">
+<img style="float:left;padding:5px" src="/img/wings.jpg">
 
 Just in time for game day, or any day, delicious pepper salt wings. This recipe is inspired by some great wings my sister-in-law cooked for us.
 
