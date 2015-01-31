@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pepper Salt Wings
-date: 2014-12-09
+date: 2015-01-31
 category: Meat Dishes
 caption: A delicious and simple wings recipe
 archive: recipes
