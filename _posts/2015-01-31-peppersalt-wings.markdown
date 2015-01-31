@@ -24,6 +24,7 @@ Just in time for game day, or any day, delicious pepper salt wings. This recipe 
 * 6 Chicken wings
 * 1 T Pepper corns
 * 1 T Sea salt or Kosher salt
+* Olive oil
 
 #####Procedure:
 
@@ -33,7 +34,7 @@ Just in time for game day, or any day, delicious pepper salt wings. This recipe 
 
 3. Grind up the pepper and salt together in a grinder, blender, or mortar and pestle.
 
-4. Line the roasting pan with foil. Place the wings inside and coat them with the seasoning. Turn over and coat the other side.
+4. Line the roasting pan with foil. Place the wings inside and coat them with the seasoning. Turn over and coat the other side. Drizzle with a little oil.
 
 5. Close the foil and bake at 350 degrees for about an hour
 
