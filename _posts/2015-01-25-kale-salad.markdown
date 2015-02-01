@@ -6,7 +6,7 @@ category: Vegetarian Dishes
 caption: Kale Salad
 archive: recipes
 url: kale-salad
-video: <iframe width="560" height="315" src="//www.youtube.com/embed/1eqjq_eoeQM" frameborder="0" allowfullscreen></iframe>
+video: <iframe src="//www.youtube.com/embed/1eqjq_eoeQM" frameborder="0" allowfullscreen></iframe>
 ---
 
 
