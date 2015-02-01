@@ -6,8 +6,9 @@ category: Everything Else!
 caption: A traditional snow candy recipe
 archive: recipes
 url: maple-syrup-snow-candy
+video: <iframe width="560" height="315" src="//www.youtube.com/embed/5e5MUxhmBWk" frameborder="0" allowfullscreen></iframe>
+
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/5e5MUxhmBWk" frameborder="0" allowfullscreen></iframe>
 
 If it's snowing outside, here's a fun, easy, traditional indoor cooking recipe for the whole family
 

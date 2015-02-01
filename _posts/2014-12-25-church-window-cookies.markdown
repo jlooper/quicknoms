@@ -6,9 +6,10 @@ category: Desserts
 caption: Church Window Cookies are a classic on our Christmas table!
 archive: recipes
 url: church-window-cookies
+video: <iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
+
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
 
 Church window cookies are a rolled cookie that is cut into rounds. The marshmallows are colored and look a bit like church window panes. You can use either crushed nilla wafers, graham crackers, or coconut flakes for the outer coating, they all taste great.
 

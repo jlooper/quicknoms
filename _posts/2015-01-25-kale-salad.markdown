@@ -6,8 +6,9 @@ category: Vegetarian Dishes
 caption: Kale Salad
 archive: recipes
 url: kale-salad
+video: <iframe width="560" height="315" src="//www.youtube.com/embed/1eqjq_eoeQM" frameborder="0" allowfullscreen></iframe>
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/1eqjq_eoeQM" frameborder="0" allowfullscreen></iframe>
+
 
 Even if you don't like kale, this superfood is worth a try using this dressing. Let the kale marinate in the dressing to soften it and infuse the flavor of the dressing. For a lot of kale, double the ingredients. If you like Sweet Greens salads, this will remind you of that.
 
