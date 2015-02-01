@@ -18,7 +18,7 @@
                         {{page.video}}
                     </div>
                      <div class="col-lg-12 copy">
-                        <img class="img-responsive centered" style="float:left;padding:10px" src="{{ site.baseurl }}/img/{{page.thumbnail}}" alt="">
+                        {% if post.thumbnail}<img class="img-responsive centered" style="float:left;padding:10px" src="{{ site.baseurl }}/img/{{page.thumbnail}}" alt="">{% endif %}
                         {{content}}
                     </div> 
                     {% endif %}                       
