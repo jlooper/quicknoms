@@ -6,7 +6,7 @@ category: Desserts
 caption: Church Window Cookies are a classic on our Christmas table!
 archive: recipes
 url: church-window-cookies
-video: <iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
+video: <iframe src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
 
 ---
 
