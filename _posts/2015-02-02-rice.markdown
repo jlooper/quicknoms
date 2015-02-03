@@ -1,0 +1,35 @@
+---
+layout: post
+title: Rice
+date: 2015-02-02
+category: Vegetarian Dishes
+caption: Preparing rice on the stovetop
+archive: recipes
+url: rice
+thumbnail: rice.jpg
+---
+Preparing rice the Asian way, without the use of pre-packaged mixes, is easy if you have a rice cooker. But if you don't, here's how to do it on a stove.
+
+#####You need:
+
+* Non-stick pot with lid
+* Spoon
+
+#####Ingredients:
+
+* Rice
+* Water
+
+#####Procedure:
+
+1. Put 1/2 cup of dry short-grained rice per person served into a pot
+
+2. Swish the rice in water a few times and drain to rinse it
+
+3. Add water to cover the rice plus about 1/2 inch extra over the rice
+
+4. Boil the rice over medium-high heat, stirring until the water is absorbed
+
+5. Cover with lid, turn down the heat to simmer, and wait about 10 minutes
+
+6. Rice is ready to serve when it is soft.
