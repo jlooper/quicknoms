@@ -6,7 +6,7 @@ category: Meat Dishes
 caption: Comfort food for cold nights
 archive: recipes
 url: pastameat
-video: <iframe width="560" height="315" src="//www.youtube.com/embed/_MIdbZml6r4?list=UUpLxEusuFWB8cZXyiXs4qew" frameborder="0" allowfullscreen></iframe>
+video: <iframe src="//www.youtube.com/embed/_MIdbZml6r4?list=UUpLxEusuFWB8cZXyiXs4qew" frameborder="0" allowfullscreen></iframe>
 ---
 
 

@@ -3,5 +3,5 @@ layout: video
 title: Church Window Cookies
 date: 2014-12-25
 category: Video
-embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
+embed_code: <iframe src="//www.youtube.com/embed/FQSSsmTroMk" frameborder="0" allowfullscreen></iframe>
 ---

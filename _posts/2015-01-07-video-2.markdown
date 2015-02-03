@@ -3,5 +3,5 @@ layout: video
 title: Pasta with Meat Sauce
 date: 2015-01-06
 category: Video
-embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/_MIdbZml6r4?list=UUpLxEusuFWB8cZXyiXs4qew" frameborder="0" allowfullscreen></iframe>
+embed_code: <iframe src="//www.youtube.com/embed/_MIdbZml6r4?list=UUpLxEusuFWB8cZXyiXs4qew" frameborder="0" allowfullscreen></iframe>
 ---

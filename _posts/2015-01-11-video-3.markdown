@@ -3,5 +3,5 @@ layout: video
 title: Pizza
 date: 2015-01-11
 category: Video
-embed_code: <iframe width="560" height="315" src="//www.youtube.com/embed/i9QToeYHTmQ" frameborder="0" allowfullscreen></iframe>
+embed_code: <iframe src="//www.youtube.com/embed/i9QToeYHTmQ" frameborder="0" allowfullscreen></iframe>
 ---
