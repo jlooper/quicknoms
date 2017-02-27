@@ -15,6 +15,7 @@ export class RecipesComponent {
   id: string;
   cleanedImage: any;
   private sub: any;
+  title: string;
 
   constructor(af: AngularFire, private sanitizer: DomSanitizer, private activatedRoute: ActivatedRoute, private router: Router) {
 
@@ -39,6 +40,32 @@ export class RecipesComponent {
   }
   filter(id: string) : boolean{
      if (this.id == id || this.id == "all"){
+       console.log(this.id)
+       switch (this.id)
+      {
+        case "meat":
+          this.title = "Meat Recipes";
+          break;
+        case "soupssalads":
+          this.title = "Soup and Salad Recipes";
+          break;
+        case "snacks":
+          this.title = "Snack Recipes";
+          break;
+        case "desserts":
+          this.title = "Dessert Recipes";
+          break;
+        case "vegetarian":
+          this.title = "Vegetarian Recipes";
+          break;
+        case "everythingelse":
+          this.title = "Everything Else";
+          break;
+        case "all":
+          this.title = "All Recipes";
+          break;
+       default : "Recipes";
+      }
        return false;
      }
      return true;

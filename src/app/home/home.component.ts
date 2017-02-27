@@ -22,7 +22,7 @@ export class HomeComponent {
     if(formData.valid) {
       console.log(localStorage.getItem("currFile"));
       const recipes = this.af.database.list('/Recipes');
-      recipes.push({ Name: formData.value.Name, Ingredients: formData.value.Ingredients, Method: formData.value.Method, Tools: formData.value.Tools, Notes: formData.value.Notes, Image: localStorage.getItem("currFile"), Category: formData.value.Category, Approved: false  })
+      recipes.push({ Name: formData.value.Name, Ingredients: formData.value.Ingredients, Method: formData.value.Method, Tools: formData.value.Tools, Notes: formData.value.Notes, Image: localStorage.getItem("currFile"), Category: formData.value.Category, Approved: false, Date: 0 - Date.now()  })
       .then(
         (success) => {
           this.message = "Thank you for submitting a recipe!";
