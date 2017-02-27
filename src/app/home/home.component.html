@@ -1,0 +1,248 @@
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <img class="img-responsive" src="assets/img/profile.png" alt="">
+                <div class="intro-text">
+                    <span class="name">QuickNoms</span>
+                    <hr class="star-light">
+                    <span class="skills">5 ingredients. 15 minutes. Minimal setup. Recipes for all!</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Recipes</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/meat" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Meat Dishes
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/meat.png" class="img-responsive" alt="alt">
+                </a>
+            </div>
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/soupssalads" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Soups and Salads
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/soupssalads.png" class="img-responsive" alt="Soups and Salads">
+                </a>
+            </div>
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/vegetarian" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Vegetarian Dishes
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/vegetarian.png" class="img-responsive" alt="Vegetarian Dishes">
+                </a>
+            </div>
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/snacks" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Snacks
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/snacks.png" class="img-responsive" alt="Snacks">
+                </a>
+            </div>
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/desserts" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Desserts
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/desserts.png" class="img-responsive" alt="Desserts">
+                </a>
+            </div>
+
+            <div class="col-sm-4 portfolio-item">
+                <a href="/recipes/everythingelse" class="portfolio-link">
+                    <div class="caption">
+                        <div class="caption-content">
+                            Everything Else
+                        </div>
+                    </div>
+                    <img src="assets/img/portfolio/extras.png" class="img-responsive" alt="Everything Else">
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+
+<!-- About Section -->
+<section class="success" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>About Quicknoms</h2>
+                <hr class="star-light">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+                <p>Tired of the Food Network and their insanely complex recipes? Are you a student or new graduate looking for
+                    simple, inexpensive, easy to make, fast recipes? You've come to the right place!</p>
+            </div>
+            <div class="col-lg-4">
+                <p>QuickNoms has curated recipes from our community of kitchen ninjas. Just have a frying pan and some eggs?
+                    Let's see what we can make quickly and easily, on a budget! </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="submit">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Submit a Recipe!</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+
+                <div *ngIf="message" class="alert alert-success text-center">{{message}}</div>
+                <div *ngIf="error" class="alert alert-danger text-center">{{error}}</div>
+
+                <form #formData='ngForm' (ngSubmit)="onSubmit(formData)">
+
+                    <div class="form-group">
+                        <label> Recipe Name: </label>
+                        <input name="Name" class="form-control" (ngModel)="Name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label> Notes: </label>
+                        <textarea rows="3" name="Notes" class="form-control" (ngModel)="Notes" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label> Ingredients: </label>
+                        <textarea class="form-control" rows="3" name="Ingredients" (ngModel)="Ingredients" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label> Method: </label>
+                        <textarea class="form-control" rows="3" name="Method" (ngModel)="Method" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label> Tools: </label>
+                        <textarea class="form-control" rows="3" name="Tools" (ngModel)="Tools" required></textarea>
+                    </div>
+
+                     <div class="form-group">
+                        <label> Category: </label>
+                        <select class="form-control" name="Category" (ngModel)="Category" required>
+                            <option value="soupssalads">Soups and Salads</option>
+                            <option value="meat">Meat Dishes</option>
+                            <option value="vegetarian">Vegetarian Dishes</option>
+                            <option value="snacks">Snacks</option>
+                            <option value="desserts">Desserts</option>
+                            <option value="everythingelse">Everything Else</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label> Image: </label>
+                        <input type="file" (ngModel)="Image" (change)="fileChange($event)" placeholder="Upload file" accept=".png,.jpg" required>
+                    </div>
+
+                    <div>
+                        <button type="submit" class="btn btn-primary" [disabled]="!formData.valid">Submit</button>
+                    </div>
+
+                </form>
+
+                
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+
+<footer class="text-center">
+
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4">
+                    <h3>We're Local!</h3>
+                    <p>
+                        Built in Boston
+                    </p>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Find Us Online</h3>
+                    <ul class="list-inline">
+
+                        <li>
+                            <a href="http://www.facebook.com/quicknoms" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="http://www.twitter.com/jenlooper" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="http://www.github.com/jlooper" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Built With Taste</h3>
+                    <p>A Project by <a href="http://www.ladeezfirstmedia.com">LadeezFirstMedia</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    Copyright &copy; LadeezFirstMedia
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+
+<div class="scroll-top page-scroll visible-xs visble-sm">
+    <a class="btn btn-primary" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+</div>
