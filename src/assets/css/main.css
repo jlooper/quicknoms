@@ -203,6 +203,7 @@ section {
 .list-group-item-heading {
     color: #F3431F;
     padding: 5px;
+    margin: 10px;
 }
 section h2 {
     margin: 0;
