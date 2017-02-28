@@ -1,5 +1,5 @@
 
-# Quicknoms
+# QuickNoms: 5 ingredients. 15 minutes. Minimal setup. Recipes for all!
 
 QuickNoms is a curated recipe app for young adults who need simple, cheap recipes
 
