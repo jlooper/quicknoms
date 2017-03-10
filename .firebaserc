@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "quicknoms-91e39"
+    "default": "quicknoms-91e39",
+    "quicknoms": "quicknoms-91e39"
   }
 }

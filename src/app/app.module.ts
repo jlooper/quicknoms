@@ -3,6 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { AppComponent, PageNotFoundComponent } from './app.component';
+import { HttpModule } from '@angular/http';
+
 
 import { AngularFireModule, 
   FIREBASE_PROVIDERS,
@@ -31,7 +33,8 @@ export const firebaseConfig = {
     AngularFireModule.initializeApp(firebaseConfig),
     AppRouting,
     FormsModule,
-    CommonModule
+    CommonModule,
+    HttpModule
    ],
   declarations: [ 
     AppComponent,
