@@ -21,7 +21,6 @@ export class RecipesComponent {
 
     this.sub = this.activatedRoute.params.subscribe((params:any) => {
         this.id = params['id'];
-        console.log(this.id)
     })
 
     this.items = af.database.list('/Recipes', {
@@ -40,7 +39,7 @@ export class RecipesComponent {
   }
   filter(id: string) : boolean{
      if (this.id == id || this.id == "all"){
-       console.log(this.id)
+       console.log("page is", this.id)
        switch (this.id)
       {
         case "meat":

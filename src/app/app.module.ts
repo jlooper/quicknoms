@@ -15,6 +15,7 @@ import { AngularFireModule,
 import { AppRouting } from './app.routing';
 
 import { HomeComponent } from './home/home.component';
+import { VideosComponent } from './videos/videos.component';
 import { RecipesComponent } from './recipes/recipes.component';
 import { RecipeDetailComponent } from './recipes/recipedetail.component';
 
@@ -41,6 +42,7 @@ export const firebaseConfig = {
     HomeComponent,
     RecipesComponent,
     RecipeDetailComponent,
+    VideosComponent,
     PageNotFoundComponent
   ],
   providers: [],
